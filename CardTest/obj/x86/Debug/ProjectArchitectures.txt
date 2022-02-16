@@ -1,0 +1,1 @@
+C:\Code\CardTest\CardTest\CardTest.csproj;x86
